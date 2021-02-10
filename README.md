@@ -1,4 +1,4 @@
-![ansi labs logo](./logo.png)
+![ansi labs logo](./logo.png | width=8)
 
 # Hi! Nice to meet you!
 
