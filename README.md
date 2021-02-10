@@ -1,7 +1,7 @@
-<img src="logo.png" style="display:block;width:128px;margin:0 auto;">
+![ansi labs logo](./logo.png)
 
-<h1 style="text-align:center;border-bottom:none;">Hi! Nice to meet you!</h1>
+# Hi! Nice to meet you!
 
-<p style="text-align:center;">Unfortunately, we have no open-source project at the moment.</p>
+Unfortunately, we have no open-source project(s) at the moment.
 
-<p style="text-align:center;">Thank you very much for your understanding.</p>
+Thank you very much for your understanding.
